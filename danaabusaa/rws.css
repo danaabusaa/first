@@ -1,0 +1,113 @@
+body{font-family: initial;
+font-size: 20px;
+padding: 0;
+margin: auto;
+background-color: #FFFAFA;}
+
+.container{width: 80%;
+	margin: auto;
+	overflow: hidden;}
+
+
+.logo{font-size:18px;
+line-height: 30%;}
+
+
+
+header {background-color: #696969;
+	color: #FFF5EE;
+	text-align: center;
+	min-height: 80px;
+font-family: sans-serif;}
+
+
+.slogan{vertical-align: bottom;
+letter-spacing: 3px;
+text-transform: uppercase;
+font-size: 12px;
+font-family: serif;}
+
+
+.links a{color: #C0C0C0;}
+
+
+a{color: #000000;
+text-decoration: none;
+text-transform: uppercase;
+font-weight: bold;}
+
+ul{margin: auto;
+padding: 30px;}
+
+li{float: center;
+display: inline;
+padding-left: 180px;}
+
+
+
+#showcase{min-height: 800px;
+background:url(pinkbg.jpg) no-repeat  -35px 10px ; 
+text-align: center; 
+color: #696969;}
+
+
+
+#products .prod{ 
+float: left;
+width: 40%; 
+text-align: center;
+padding: 50px;}
+
+#products .prod img{ height: 300px;
+width: 300px; }
+
+#products .prod p{ text-transform: capitalize;
+	font-size: 15px;
+color: #808080; }
+
+h3{text-align: center;}
+
+.box{background-color: #D3D3D3;
+margin-bottom: 60px;}
+
+
+.col{ float: left;
+  width: 20%;
+  padding: 60px;}
+
+.containar:after{content: "";
+  display: table;
+  clear: both;}
+
+.activity{text-align: center;
+  	color: #696969;
+  	font-size: 30px;}
+
+
+
+.about-p{text-align: center;
+	font-size: 15px;}  	
+
+
+.box2{background-color: #FFE4E1;
+font-size: 20px;
+padding-left: 50px;
+text-align: center;}
+
+form #btn{border-style: none;
+height: 30px;
+width: 60px;
+margin-top: 10px;
+background-color: #808080;
+color: #ffffff;}
+
+
+footer{background-color: #FFCDD2;
+text-align: center;
+color: #696969;
+font-weight: bold;
+padding: 5px;}
+
+
+
+
